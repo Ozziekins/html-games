@@ -1,6 +1,6 @@
-# Front-end Hometask 1
+# HTML Games
 
-By:  Ozioma Okonicha
+By:  [Ozioma Okonicha](https://github.com/Ozziekins)
 
 ### Rock Paper Scissors added features
 
